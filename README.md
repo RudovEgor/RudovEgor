@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+
 <h1 align="center">Hi 👋, I'm Egor Rudov</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
