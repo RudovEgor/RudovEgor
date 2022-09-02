@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Egor Rudov</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">A passionate frontend/backend developer from Russia</h3>
 
 - 🌱 I’m currently learning **Frameworks and others programming language**
 
 - 👯 I’m looking to collaborate in the **friendly and good project**
 
-- 💬 Ask me about **Front/Back-end develop:)**
+- 💬 Ask me about **Frontend/Backend develop:)**
 
 - 📫 How to reach me **egorka.ruda@mail.ru**
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rudovegor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rudovegor" height="30" width="40" /></a>
