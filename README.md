@@ -1,3 +1,4 @@
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 <h1 align="center">Hi 👋, I'm Egor Rudov</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
@@ -8,7 +9,7 @@
 - 💬 Ask me about **Front/Back-end develop:)**
 
 - 📫 How to reach me **egorka.ruda@mail.ru**
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rudovegor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rudovegor" height="30" width="40" /></a>
