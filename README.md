@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate in the **friendly and good project**
 
-- 💬 Ask me about **Frontend/Backend develop:)**
+- 💬 Ask me about **Frontend/Backend develop :)**
 
 - 📫 How to reach me **egorka.ruda@mail.ru**
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
