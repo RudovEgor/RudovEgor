@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **.NET, HTML, CSS and others programming language**
 
-- 👯 I’m looking to collaborate in the **friendly and good project**
+- 👯 I’m looking to collaborate in the **friendly and good company**
 
 - 💬 Ask me about **Frontend/Backend develop :)**
 
