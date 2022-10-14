@@ -1,6 +1,6 @@
 
 <h1 align="center">ℍ𝕚 👋, 𝕀'𝕞 𝔼𝕘𝕠𝕣 ℝ𝕦𝕕𝕠𝕧</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=09F71B&center=true&width=435&lines=A+passion+backend%2Ffrontend+develop" alt="Typing SVG" /></a>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=09F71B&center=true&width=435&lines=A+passion+backend%2Ffrontend+develop" alt="Typing SVG" /></a></h3>
 
 - 🌱 I’m currently learning **Frameworks and others programming language**
 
