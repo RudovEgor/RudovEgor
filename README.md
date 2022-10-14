@@ -21,4 +21,4 @@
 <p align="left">
 <a href="https://discord.gg/д̧͕̇р̞ͮ͠у̚҉̬г̢̖ͣ#4363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="д̧͕̇р̞ͮ͠у̚҉̬г̢̖ͣ#4363" height="30" width="40" /></a>
 </p>
-uses: Platane/snk/svg-only@v2
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
