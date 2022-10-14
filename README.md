@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Egor Rudov</h1>
-<h3 align="center">A passionate frontend/backend developer from Russia</h3>
+<h3 align="center">A passionate frontend/backend developer from Russia🇷🇺</h3>
 
 - 🌱 I’m currently learning **Frameworks and others programming language**
 
