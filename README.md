@@ -1,5 +1,5 @@
 
-<h1 align="center" >ℍ𝕚 👋, 𝕀'𝕞 𝔼𝕘𝕠𝕣 ℝ𝕦𝕕𝕠𝕧</h1>
+<h1 align="center" >ℍ𝕚, 𝕀'𝕞 𝔼𝕘𝕠𝕣 ℝ𝕦𝕕𝕠𝕧</h1>
 
 <h3 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=058D0F&center=true&width=435&lines=%F0%9D%94%B8+%F0%9D%95%A1%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%A0%F0%9D%95%9F+%F0%9D%95%93%F0%9D%95%92%F0%9D%95%94%F0%9D%95%9C%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95%2F%F0%9D%95%97%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A1" alt="Typing SVG" /></a></h3>
 <div align="center">
@@ -7,6 +7,7 @@
 </div>
 
 ---
+### 😉 &nbsp;About me
 
 - 🌱 I’m currently learning **.NET, HTML, CSS and others programming language**
 
@@ -15,6 +16,8 @@
 - 💬 Ask me about **Frontend/Backend develop :)**
 
 - 📫 How to reach me **egorka.ruda@mail.ru**
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align = "left"><a href="https://discord.gg/д̧͕̇р̞ͮ͠у̚҉̬г̢̖ͣ#4363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XxX_Дубослав_XxX#4363" height="30" width="40" /></a></p>
