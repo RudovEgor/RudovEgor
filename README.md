@@ -20,8 +20,9 @@
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align = "left"><a href="https://discord.gg/д̧͕̇р̞ͮ͠у̚҉̬г̢̖ͣ#4363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XxX_Дубослав_XxX#4363" height="30" width="40" /></a></p>
+<p align = "left"><a href="https://discord.gg/432843585382121472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XxX_Дубослав_XxX#4363" height="30" width="40" /></a></p>
 
+<p align = "left"><a href="https://vk.com/hans_schweisenhoulbertgulienkam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="Егор Рудов height="30" width="40" /></a></p>
 ---
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
