@@ -20,7 +20,7 @@
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p align = "left"><a href="https://discord.gg/432843585382121472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XxX_Дубослав_XxX#4363" height="30" width="40" /></a></p>
+<p ><a href="https://discord.gg/432843585382121472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XxX_Дубослав_XxX#4363" height="30" width="40" /></a></p>
 
 <p><a href="https://vk.com/hans_schweisenhoulbertgulienkam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="ЕгорРудов" height="30" width="40" /></a></p>
 
