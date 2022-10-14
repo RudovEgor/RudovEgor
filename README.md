@@ -9,10 +9,9 @@
 - 💬 Ask me about **Frontend/Backend develop :)**
 
 - 📫 How to reach me **egorka.ruda@mail.ru**
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<p><a href="https://discord.gg/д̧͕̇р̞ͮ͠у̚҉̬г̢̖ͣ#4363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="д̧͕̇р̞ͮ͠у̚҉̬г̢̖ͣ#4363" height="30" width="40" /></a></p>
+<p align = "left"><a href="https://discord.gg/д̧͕̇р̞ͮ͠у̚҉̬г̢̖ͣ#4363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="д̧͕̇р̞ͮ͠у̚҉̬г̢̖ͣ#4363" height="30" width="40" /></a></p>
 
 <h1></h1>
 <div align="center">
