@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Egor Rudov</h1>
-<h3 align="center">A passionate frontend/backend developer from Russia🇷🇺</h3>
+<h1 align="center">ℍ𝕚 👋, 𝕀'𝕞 𝔼𝕘𝕠𝕣 ℝ𝕦𝕕𝕠𝕧</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9D%94%B8+%F0%9D%95%A1%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%92%F0%9D%95%A5%F0%9D%95%96+%F0%9D%95%97%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95%2F%F0%9D%95%93%F0%9D%95%92%F0%9D%95%94%F0%9D%95%9C%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%A3+%F0%9D%95%97%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9E+%E2%84%9D%F0%9D%95%A6%F0%9D%95%A4%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%92%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **Frameworks and others programming language**
 
