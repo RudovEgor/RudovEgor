@@ -9,7 +9,7 @@
 ---
 ### 😉 &nbsp;About me
 
-- 🌱 I’m currently learning **.NET, HTML, CSS and others programming language**
+- 🌱 I’m currently learning **.NET, and others programming language**
 
 - 👯 I’m looking to collaborate in the **friendly and good company**
 
