@@ -1,7 +1,7 @@
 
 <h1 align="center" >ℍ𝕚, 𝕀'𝕞 𝔼𝕘𝕠𝕣 ℝ𝕦𝕕𝕠𝕧</h1>
 
-<h3 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=058D0F&center=true&width=435&lines=%F0%9D%94%B8+%F0%9D%95%A1%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%A0%F0%9D%95%9F+%F0%9D%95%93%F0%9D%95%92%F0%9D%95%94%F0%9D%95%9C%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95%2F%F0%9D%95%97%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A1" alt="Typing SVG" /></a></h3>
+<h3 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=058D0F&center=true&vCenter=true&width=435&lines=%F0%9D%94%B8+%F0%9D%95%A1%F0%9D%95%92%F0%9D%95%A4%F0%9D%95%A4%F0%9D%95%9A%F0%9D%95%A0%F0%9D%95%9F+%F0%9D%95%93%F0%9D%95%92%F0%9D%95%94%F0%9D%95%9C%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95%2F%F0%9D%95%97%F0%9D%95%A3%F0%9D%95%A0%F0%9D%95%9F%F0%9D%95%A5%F0%9D%95%96%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%95%F0%9D%95%96%F0%9D%95%A7%F0%9D%95%96%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A1%F0%9D%95%96%F0%9D%95%A3" alt="Typing SVG" /></a></h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
